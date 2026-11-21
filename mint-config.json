@@ -1,0 +1,21 @@
+{
+  "minVersionCode": 15,
+  "aniwavesBase": "https://aniwaves.ru",
+  "vidyApiBase": "https://api.wecollege.net",
+  "vidyServers": [
+    "miami",
+    "boise",
+    "vegas",
+    "reno",
+    "oakland",
+    "seattle",
+    "phoenix",
+    "atlanta",
+    "portland",
+    "austin",
+    "dallas",
+    "tampa",
+    "orlando"
+  ],
+  "disabledAnimeSources": []
+}
